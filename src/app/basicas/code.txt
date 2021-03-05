@@ -1,0 +1,5 @@
+ng test --code-coverage
+
+Nos genera un reporte donde indica la covertura de codigo que tenemos
+Con eso sabremos que tan probado esta el codigo..
+Y nos da una guia de lo que nos falta por probar
