@@ -1,6 +1,6 @@
 import { obtenerRobosts } from './array';
-
-describe('Pruebas de arrays', ()=>{
+// esa x es para evitar que se ejecuten esas pruebas
+xdescribe('Pruebas de arrays', ()=>{
 
     it('Debe retornar al menos 3 robot', () => {
         const res = obtenerRobosts();
